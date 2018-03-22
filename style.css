@@ -5,10 +5,6 @@ body{
 	width: 100vw;
 	height: 100vh;
 	font-family: 'Amatic SC', cursive;
-	/*background: linear-gradient(to top left, rgb(80, 35, 100), rgb(122, 58, 155));*/
-	/*background: radial-gradient(rgb(80, 35, 100), rgb(122, 58, 155));*/
-	/*background: radial-gradient(farthest-corner at 40px 40px,
-      #f38 0%, #43e 100%);*/
  	background: radial-gradient(farthest-corner at 40px 40px,
   	#90e 0%, #60e 100%);
 	display: grid;
